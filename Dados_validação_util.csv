@@ -1,0 +1,501 @@
+Motivo;Severidade;Duração
+Problema na infraestrutura provocada por suspensão de equipamento;0.9897544965122042;239.72116164363797
+Instabilidade operacional devido a vandalismo de fibra ótica, duplo rompimento na rede regional no segmento agregador da cidade natal no provedor B, Rompimento nos trecho entre os trechos ['span11', 'span1'];0.3621688355937941;208.38414777313133
+Falha na transmissão devido a queda de equipamento;9.914436468451575;199.30332799135056
+Problema na transmissão devido a suspensão de fibra ótica, duplo rompimento na rede longa distancia no segmento anel da cidade sao paulo no provedor C, Rompimento nos trecho entre os trechos ['span5', 'span4'];4.032161863341729;222.76916810168947
+Interrupção na transmissão devido a vandalismo de fibra ótica, triplo rompimento na rede longa distancia no segmento agregador da cidade curitiba no provedor E, Rompimento nos trecho entre os trechos ['span1', 'span2', 'span10'];2.5999210193707882;304.8681986143243
+Instabilidade na infraestrutura provocada por suspensão de fibra ótica, duplo rompimento na rede regional no segmento hub da cidade recife no provedor E, Rompimento nos trecho entre os trechos ['span7', 'span6'];3.918311134469906;221.0810890781594
+Problema operacional provocada por paralisação de energia, que atingiu o repetidor e afetou 54 sites de acesso da cidade e região;0.31975916189089704;137.62873749167608
+Problema na infraestrutura provocada por vandalismo de energia, que atingiu o hub e afetou 81 sites de acesso da cidade e região;1.3358525545975954;136.93664115293723
+Falha na transmissão devido a vandalismo de fibra ótica, triplo rompimento na rede regional no segmento hub da cidade macapa no provedor B, Rompimento nos trecho entre os trechos ['span12', 'span6', 'span1'];2.0434633017346187;310.48632017537574
+Problema na infraestrutura ocasionada por interrupção de equipamento;0.9988675275057328;315.1135669364783
+Problema na infraestrutura devido a suspensão de fibra ótica, triplo rompimento na rede metropolitana no segmento anel da cidade cuiaba no provedor E, Rompimento nos trecho entre os trechos ['span1', 'span10', 'span5'];2.9559821046389994;308.1677017037821
+Instabilidade operacional causada por paralisação de fibra ótica, simples rompimento na rede regional no segmento hub da cidade salvador no provedor E, Rompimento nos trecho entre os trechos ['span1'];1.8008866122381026;126.83316160103098
+Instabilidade na infraestrutura causada por queda de fibra ótica, triplo rompimento na rede metropolitana no segmento agregador da cidade joao pessoa no provedor C, Rompimento nos trecho entre os trechos ['span6', 'span7', 'span5'];2.562111119128031;304.9010771505772
+Problema na infraestrutura causada por paralisação de fibra ótica, duplo rompimento na rede regional no segmento anel da cidade brasilia no provedor C, Rompimento nos trecho entre os trechos ['span10', 'span3'];1.077114857111579;226.59448073842847
+Falha na transmissão provocada por vandalismo de energia, que atingiu o anel e afetou 125 sites de acesso da cidade e região;2.1331316656067307;153.84115322998088
+Instabilidade na transmissão devido a queda de energia, que atingiu o abordagem e afetou 123 sites de acesso da cidade e região;1.2883632045743245;164.27515941665874
+Problema na infraestrutura causada por queda de energia, que atingiu o repetidor e afetou 36 sites de acesso da cidade e região;2.781937656843232;147.60615489600195
+Instabilidade na infraestrutura ocasionada por queda de climatização, que atingiu o repetidor e afetou 173 sites de acesso da cidade e região;0.3106716867666631;275.5360454016079
+Falha operacional devido a queda de fibra ótica, simples rompimento na rede longa distancia no segmento agregador da cidade palmas no provedor B, Rompimento nos trecho entre os trechos ['span6'];5.496155456802153;125.38401392618145
+Falha na infraestrutura ocasionada por interrupção de climatização, que atingiu o agregador e afetou 123 sites de acesso da cidade e região;0.3529015856774921;235.7088347448771
+Falha na transmissão devido a suspensão de energia, que atingiu o repetidor e afetou 72 sites de acesso da cidade e região;0.5724880412099683;115.11283057562305
+Falha operacional provocada por suspensão de equipamento;0.1806430126421048;123.01558640980105
+Problema na transmissão provocada por interrupção de fibra ótica, triplo rompimento na rede longa distancia no segmento agregador da cidade brasilia no provedor B, Rompimento nos trecho entre os trechos ['span8', 'span1', 'span7'];4.801156475068963;312.3806037765492
+Interrupção na transmissão causada por suspensão de energia, que atingiu o anel e afetou 175 sites de acesso da cidade e região;7.293737342505093;140.938608096911
+Interrupção na infraestrutura devido a paralisação de fibra ótica, duplo rompimento na rede regional no segmento repetidor da cidade recife no provedor E, Rompimento nos trecho entre os trechos ['span7', 'span2'];2.309282910808002;220.39723607385827
+Instabilidade na infraestrutura provocada por interrupção de energia, que atingiu o agregador e afetou 112 sites de acesso da cidade e região;3.2328051933643476;155.21189611464638
+Problema operacional causada por suspensão de fibra ótica, duplo rompimento na rede metropolitana no segmento repetidor da cidade brasilia no provedor B, Rompimento nos trecho entre os trechos ['span12', 'span11'];2.4459913975063285;206.86232586529727
+Instabilidade operacional provocada por paralisação de roteador;3.5413920514865374;219.95207756677485
+Interrupção na transmissão provocada por paralisação de fibra ótica, duplo rompimento na rede metropolitana no segmento agregador da cidade palmas no provedor E, Rompimento nos trecho entre os trechos ['span4', 'span4'];3.1900886122991854;216.22628852995945
+Problema na transmissão causada por vandalismo de climatização, que atingiu o abordagem e afetou 124 sites de acesso da cidade e região;1.0083637733171935;274.50729306715033
+Interrupção operacional causada por vandalismo de roteador;0.2898103570238736;202.7774930959788
+Interrupção operacional devido a interrupção de equipamento;7.344546602473805;223.92121231811825
+Falha operacional provocada por queda de fibra ótica, simples rompimento na rede regional no segmento hub da cidade boa vista no provedor E, Rompimento nos trecho entre os trechos ['span6'];2.991973745047429;107.58508735478509
+Instabilidade operacional provocada por suspensão de fibra ótica, triplo rompimento na rede regional no segmento abordagem da cidade aracaju no provedor E, Rompimento nos trecho entre os trechos ['span1', 'span2', 'span4'];3.405293528812317;314.17994657344667
+Problema na infraestrutura ocasionada por vandalismo de fibra ótica, simples rompimento na rede longa distancia no segmento repetidor da cidade aracaju no provedor E, Rompimento nos trecho entre os trechos ['span9'];0.7548934434103122;104.2219993939195
+Interrupção na transmissão causada por queda de climatização, que atingiu o anel e afetou 117 sites de acesso da cidade e região;8.652388452651042;258.45311340981686
+Interrupção operacional provocada por queda de fibra ótica, simples rompimento na rede metropolitana no segmento agregador da cidade sao luis no provedor C, Rompimento nos trecho entre os trechos ['span1'];6.2307512148775555;124.83774762878873
+Problema na infraestrutura devido a paralisação de fibra ótica, duplo rompimento na rede regional no segmento anel da cidade vitoria no provedor B, Rompimento nos trecho entre os trechos ['span12', 'span10'];3.7872938472546767;199.7286865674465
+Problema na infraestrutura devido a paralisação de fibra ótica, simples rompimento na rede longa distancia no segmento hub da cidade aracaju no provedor B, Rompimento nos trecho entre os trechos ['span8'];4.4426660461968535;119.5088972374711
+Interrupção na transmissão provocada por paralisação de energia, que atingiu o agregador e afetou 127 sites de acesso da cidade e região;0.6455918855335738;141.57867665668348
+Falha na transmissão devido a vandalismo de roteador;1.2282509333769003;149.9281891537317
+Problema na infraestrutura causada por queda de energia, que atingiu o agregador e afetou 186 sites de acesso da cidade e região;2.536125948306836;183.2489852614315
+Interrupção na infraestrutura causada por queda de fibra ótica, triplo rompimento na rede metropolitana no segmento agregador da cidade recife no provedor C, Rompimento nos trecho entre os trechos ['span11', 'span2', 'span5'];3.8958660128250555;320.66470131148657
+Falha na infraestrutura ocasionada por paralisação de equipamento;1.2814342001616268;313.82132951003666
+Falha operacional provocada por paralisação de equipamento;1.5170463845800373;306.5689236801001
+Falha operacional devido a interrupção de fibra ótica, triplo rompimento na rede longa distancia no segmento abordagem da cidade porto velho no provedor B, Rompimento nos trecho entre os trechos ['span2', 'span2', 'span1'];1.0804331165761396;324.6502584079142
+Instabilidade na infraestrutura provocada por suspensão de roteador;3.1032698551929214;314.17568807360226
+Interrupção na transmissão provocada por vandalismo de fibra ótica, simples rompimento na rede metropolitana no segmento anel da cidade maceio no provedor E, Rompimento nos trecho entre os trechos ['span2'];4.055906145597746;104.06381305781822
+Instabilidade na transmissão ocasionada por queda de energia, que atingiu o abordagem e afetou 70 sites de acesso da cidade e região;9.650204754543989;133.76450830608712
+Instabilidade na infraestrutura devido a interrupção de fibra ótica, duplo rompimento na rede longa distancia no segmento agregador da cidade brasilia no provedor C, Rompimento nos trecho entre os trechos ['span11', 'span2'];4.01023629866463;224.53197658730284
+Interrupção na transmissão devido a interrupção de energia, que atingiu o anel e afetou 189 sites de acesso da cidade e região;0.4476867967147574;147.33151798962095
+Falha na transmissão causada por interrupção de fibra ótica, simples rompimento na rede longa distancia no segmento hub da cidade brasilia no provedor E, Rompimento nos trecho entre os trechos ['span3'];4.591197522250797;104.44413143491893
+Instabilidade na transmissão causada por queda de equipamento;3.8073006265518385;118.75404936919401
+Falha operacional causada por queda de energia, que atingiu o repetidor e afetou 117 sites de acesso da cidade e região;1.3077709980390604;144.49884710776922
+Falha operacional devido a queda de energia, que atingiu o agregador e afetou 118 sites de acesso da cidade e região;0.7794553486419596;140.03858678246272
+Falha na transmissão devido a queda de equipamento;1.4034609474520485;190.93246113156454
+Problema na infraestrutura provocada por paralisação de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade maceio no provedor B, Rompimento nos trecho entre os trechos ['span1', 'span10', 'span3'];4.949012934246859;309.6128643041857
+Problema na infraestrutura devido a suspensão de energia, que atingiu o agregador e afetou 129 sites de acesso da cidade e região;0.044959219503746595;157.37882361034448
+Instabilidade operacional provocada por queda de fibra ótica, simples rompimento na rede regional no segmento hub da cidade brasilia no provedor E, Rompimento nos trecho entre os trechos ['span3'];2.7904628692071354;119.33663288084546
+Falha operacional devido a suspensão de climatização, que atingiu o repetidor e afetou 150 sites de acesso da cidade e região;1.6732765626513164;260.4983588974286
+Instabilidade na infraestrutura ocasionada por interrupção de roteador;0.27713628579523886;243.46001293751482
+Interrupção na transmissão provocada por interrupção de fibra ótica, duplo rompimento na rede metropolitana no segmento abordagem da cidade florianopolis no provedor C, Rompimento nos trecho entre os trechos ['span3', 'span1'];1.2920773503024536;197.43572215499302
+Falha operacional causada por suspensão de roteador;4.33326212516726;199.6053190758119
+Falha na infraestrutura causada por interrupção de fibra ótica, triplo rompimento na rede regional no segmento hub da cidade porto alegre no provedor B, Rompimento nos trecho entre os trechos ['span8', 'span1', 'span5'];4.170523674317479;301.6279321979319
+Problema na infraestrutura causada por paralisação de fibra ótica, duplo rompimento na rede metropolitana no segmento anel da cidade natal no provedor C, Rompimento nos trecho entre os trechos ['span2', 'span9'];3.757611419656452;194.57215191688155
+Interrupção na infraestrutura devido a suspensão de equipamento;0.6349717247618997;206.26740783668512
+Instabilidade na transmissão devido a queda de equipamento;1.0052447316684232;177.47493452535127
+Interrupção operacional provocada por paralisação de fibra ótica, triplo rompimento na rede regional no segmento abordagem da cidade curitiba no provedor C, Rompimento nos trecho entre os trechos ['span5', 'span12', 'span9'];2.644832931304518;316.2827677069687
+Falha na transmissão provocada por queda de equipamento;0.1510728404608267;305.6910767067111
+Interrupção operacional devido a queda de fibra ótica, duplo rompimento na rede metropolitana no segmento hub da cidade curitiba no provedor E, Rompimento nos trecho entre os trechos ['span3', 'span9'];4.062028907907996;216.7569794249189
+Interrupção operacional ocasionada por queda de fibra ótica, triplo rompimento na rede regional no segmento abordagem da cidade sao paulo no provedor D, Rompimento nos trecho entre os trechos ['span2', 'span6', 'span2'];3.27142391929171;306.46931714691465
+Interrupção operacional provocada por suspensão de roteador;1.4282604083325545;310.59200402790026
+Problema operacional ocasionada por paralisação de fibra ótica, duplo rompimento na rede longa distancia no segmento repetidor da cidade rio de janeeiro no provedor C, Rompimento nos trecho entre os trechos ['span9', 'span7'];2.768023981619229;215.64513033632824
+Falha operacional provocada por vandalismo de equipamento;1.9731316890439161;216.40115271064485
+Falha operacional provocada por interrupção de fibra ótica, triplo rompimento na rede regional no segmento abordagem da cidade natal no provedor C, Rompimento nos trecho entre os trechos ['span9', 'span7', 'span1'];4.860560433740633;327.77594286385056
+Falha na infraestrutura causada por queda de equipamento;1.0369465465979493;320.9806109767031
+Interrupção na transmissão causada por suspensão de energia, que atingiu o hub e afetou 114 sites de acesso da cidade e região;3.479536887410709;151.6310664761361
+Falha na transmissão provocada por queda de energia, que atingiu o abordagem e afetou 60 sites de acesso da cidade e região;9.04350286126352;135.29846510064957
+Falha na infraestrutura provocada por suspensão de roteador;1.7603688314567276;122.8222828239926
+Problema na infraestrutura ocasionada por suspensão de equipamento;3.6925038970837196;156.50098501623177
+Problema na infraestrutura devido a suspensão de energia, que atingiu o agregador e afetou 165 sites de acesso da cidade e região;2.888113658685429;150.53179180696353
+Falha operacional devido a vandalismo de equipamento;1.3298809480722735;155.64017938490102
+Interrupção na infraestrutura causada por interrupção de climatização, que atingiu o repetidor e afetou 52 sites de acesso da cidade e região;3.7829051693321594;234.5497655418148
+Interrupção na transmissão devido a vandalismo de roteador;0.30341230496343075;245.0651149550074
+Instabilidade operacional provocada por paralisação de fibra ótica, simples rompimento na rede longa distancia no segmento agregador da cidade cuiaba no provedor B, Rompimento nos trecho entre os trechos ['span6'];3.5496756258895497;108.20505624111122
+Problema operacional causada por suspensão de energia, que atingiu o abordagem e afetou 184 sites de acesso da cidade e região;1.6166537017646716;130.62776907903694
+Falha operacional provocada por vandalismo de fibra ótica, duplo rompimento na rede metropolitana no segmento abordagem da cidade porto alegre no provedor C, Rompimento nos trecho entre os trechos ['span7', 'span10'];3.145001789920947;213.93428470730075
+Interrupção operacional provocada por paralisação de equipamento;5.581271170228722;205.75521630728306
+Interrupção na transmissão ocasionada por queda de fibra ótica, triplo rompimento na rede longa distancia no segmento abordagem da cidade cuiaba no provedor C, Rompimento nos trecho entre os trechos ['span12', 'span7', 'span10'];9.03032703599387;310.81753663091166
+Interrupção operacional ocasionada por interrupção de fibra ótica, simples rompimento na rede regional no segmento agregador da cidade palmas no provedor E, Rompimento nos trecho entre os trechos ['span9'];3.7047195944614857;113.13064158193333
+Falha na infraestrutura provocada por vandalismo de fibra ótica, triplo rompimento na rede longa distancia no segmento abordagem da cidade natal no provedor B, Rompimento nos trecho entre os trechos ['span12', 'span9', 'span12'];3.1050705455715804;297.94681483745995
+Interrupção na transmissão devido a interrupção de fibra ótica, simples rompimento na rede longa distancia no segmento abordagem da cidade joao pessoa no provedor C, Rompimento nos trecho entre os trechos ['span7'];2.856625377674402;114.80237055936449
+Interrupção na transmissão devido a suspensão de energia, que atingiu o anel e afetou 176 sites de acesso da cidade e região;0.6253298214482614;150.56418997637957
+Problema na transmissão ocasionada por suspensão de fibra ótica, duplo rompimento na rede longa distancia no segmento abordagem da cidade florianopolis no provedor C, Rompimento nos trecho entre os trechos ['span12', 'span10'];3.4861126083314686;218.4303577434444
+Problema na transmissão causada por interrupção de energia, que atingiu o repetidor e afetou 175 sites de acesso da cidade e região;0.9441816171332674;129.7057428421436
+Instabilidade operacional provocada por interrupção de energia, que atingiu o repetidor e afetou 174 sites de acesso da cidade e região;1.0990931075886299;115.7805862144902
+Instabilidade na transmissão devido a vandalismo de energia, que atingiu o hub e afetou 109 sites de acesso da cidade e região;3.3812202184347737;160.97003210310592
+Interrupção na infraestrutura provocada por vandalismo de fibra ótica, duplo rompimento na rede longa distancia no segmento agregador da cidade campo grande no provedor E, Rompimento nos trecho entre os trechos ['span6', 'span11'];3.163734212533197;196.41468867379533
+Interrupção na infraestrutura provocada por interrupção de equipamento;0.22601086506273804;206.35547046417983
+Problema operacional ocasionada por suspensão de fibra ótica, duplo rompimento na rede longa distancia no segmento repetidor da cidade natal no provedor D, Rompimento nos trecho entre os trechos ['span8', 'span4'];4.9023098013593405;207.90684934230885
+Problema na transmissão causada por queda de fibra ótica, simples rompimento na rede regional no segmento repetidor da cidade teresina no provedor E, Rompimento nos trecho entre os trechos ['span2'];3.0222106778450413;110.08093036667324
+Instabilidade operacional provocada por vandalismo de fibra ótica, duplo rompimento na rede regional no segmento abordagem da cidade recife no provedor D, Rompimento nos trecho entre os trechos ['span4', 'span3'];2.758592365190472;194.66443925229353
+Problema na transmissão causada por vandalismo de energia, que atingiu o anel e afetou 69 sites de acesso da cidade e região;4.363897832819359;143.23956798063818
+Instabilidade operacional causada por vandalismo de fibra ótica, duplo rompimento na rede longa distancia no segmento repetidor da cidade joao pessoa no provedor B, Rompimento nos trecho entre os trechos ['span12', 'span4'];7.737730051027041;188.12346019840712
+Instabilidade na infraestrutura devido a suspensão de fibra ótica, simples rompimento na rede metropolitana no segmento agregador da cidade brasilia no provedor C, Rompimento nos trecho entre os trechos ['span2'];3.735093009951862;108.58989688375334
+Problema operacional ocasionada por queda de fibra ótica, simples rompimento na rede longa distancia no segmento agregador da cidade fortaleza no provedor C, Rompimento nos trecho entre os trechos ['span7'];3.3373397672893463;97.84955477992305
+Problema na transmissão devido a queda de roteador;1.960947590376145;101.44988284398983
+Interrupção na transmissão causada por paralisação de climatização, que atingiu o agregador e afetou 141 sites de acesso da cidade e região;7.570007130897127;206.4761479316859
+Interrupção na infraestrutura ocasionada por vandalismo de fibra ótica, duplo rompimento na rede regional no segmento anel da cidade maceio no provedor E, Rompimento nos trecho entre os trechos ['span10', 'span8'];1.7849471026320574;222.35401441944586
+Interrupção na infraestrutura provocada por interrupção de climatização, que atingiu o repetidor e afetou 121 sites de acesso da cidade e região;0.7003779523404239;247.31212836407755
+Instabilidade operacional causada por paralisação de energia, que atingiu o anel e afetou 191 sites de acesso da cidade e região;0.46365005565295614;149.29523945625252
+Instabilidade na transmissão provocada por interrupção de fibra ótica, duplo rompimento na rede regional no segmento repetidor da cidade belo horizonte no provedor C, Rompimento nos trecho entre os trechos ['span2', 'span1'];2.1200376326833856;226.0233448722981
+Problema operacional devido a queda de climatização, que atingiu o abordagem e afetou 80 sites de acesso da cidade e região;0.5954032730723301;267.1939691823431
+Problema na transmissão ocasionada por paralisação de fibra ótica, triplo rompimento na rede longa distancia no segmento repetidor da cidade belo horizonte no provedor C, Rompimento nos trecho entre os trechos ['span5', 'span3', 'span10'];3.6977396971099963;331.5626163433529
+Instabilidade operacional ocasionada por paralisação de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade manaus no provedor C, Rompimento nos trecho entre os trechos ['span3', 'span1', 'span8'];2.626426483976064;316.3868619736275
+Problema na transmissão causada por vandalismo de fibra ótica, triplo rompimento na rede metropolitana no segmento agregador da cidade porto velho no provedor A, Rompimento nos trecho entre os trechos ['span10', 'span10', 'span10'];4.679279589355677;290.4812477764168
+Falha na transmissão provocada por interrupção de fibra ótica, simples rompimento na rede regional no segmento abordagem da cidade recife no provedor B, Rompimento nos trecho entre os trechos ['span9'];7.3005408357417805;107.09327740641345
+Interrupção na infraestrutura causada por interrupção de roteador;2.4325863078387924;100.43091807052001
+Interrupção na infraestrutura ocasionada por suspensão de energia, que atingiu o repetidor e afetou 61 sites de acesso da cidade e região;0.5593382831325807;151.03115787793007
+Instabilidade na infraestrutura provocada por paralisação de energia, que atingiu o hub e afetou 141 sites de acesso da cidade e região;0.40960983710666;152.09534316314563
+Instabilidade na infraestrutura ocasionada por vandalismo de fibra ótica, simples rompimento na rede metropolitana no segmento anel da cidade palmas no provedor C, Rompimento nos trecho entre os trechos ['span11'];5.673395081731304;118.23965455966348
+Interrupção na transmissão provocada por interrupção de fibra ótica, duplo rompimento na rede longa distancia no segmento agregador da cidade joao pessoa no provedor E, Rompimento nos trecho entre os trechos ['span11', 'span8'];2.3701653149153903;221.36383325591333
+Falha operacional causada por queda de fibra ótica, triplo rompimento na rede regional no segmento hub da cidade fortaleza no provedor E, Rompimento nos trecho entre os trechos ['span3', 'span4', 'span6'];4.4231070166853845;344.69346052666947
+Problema na infraestrutura devido a suspensão de equipamento;3.614611286536575;324.7493979773666
+Instabilidade operacional devido a vandalismo de fibra ótica, simples rompimento na rede regional no segmento anel da cidade recife no provedor C, Rompimento nos trecho entre os trechos ['span12'];1.2991331058130406;101.71724272911312
+Falha na transmissão provocada por queda de fibra ótica, simples rompimento na rede metropolitana no segmento anel da cidade joao pessoa no provedor C, Rompimento nos trecho entre os trechos ['span12'];3.3597076785535216;97.99264041074845
+Problema na transmissão ocasionada por suspensão de energia, que atingiu o hub e afetou 87 sites de acesso da cidade e região;2.1468391215350917;116.137169070847
+Falha na infraestrutura ocasionada por vandalismo de fibra ótica, simples rompimento na rede regional no segmento hub da cidade natal no provedor E, Rompimento nos trecho entre os trechos ['span5'];3.654210665557773;105.56147556483947
+Instabilidade operacional provocada por paralisação de fibra ótica, triplo rompimento na rede metropolitana no segmento anel da cidade sao luis no provedor C, Rompimento nos trecho entre os trechos ['span11', 'span12', 'span8'];3.8428181462846727;300.20408117298
+Falha operacional causada por suspensão de energia, que atingiu o abordagem e afetou 63 sites de acesso da cidade e região;0.2682434954188808;172.66222983695252
+Interrupção na infraestrutura ocasionada por queda de fibra ótica, duplo rompimento na rede longa distancia no segmento repetidor da cidade curitiba no provedor D, Rompimento nos trecho entre os trechos ['span12', 'span7'];2.931086874521665;194.22483975468063
+Interrupção na transmissão ocasionada por paralisação de equipamento;3.6548125708252703;199.75335935771682
+Falha na infraestrutura devido a interrupção de climatização, que atingiu o agregador e afetou 72 sites de acesso da cidade e região;0.36869320021876195;262.6682995084839
+Falha na infraestrutura ocasionada por queda de fibra ótica, simples rompimento na rede regional no segmento anel da cidade teresina no provedor E, Rompimento nos trecho entre os trechos ['span7'];3.2859501392644415;101.6117826134483
+Falha operacional causada por paralisação de roteador;6.93470774361292;113.26573358143838
+Problema operacional provocada por interrupção de fibra ótica, duplo rompimento na rede longa distancia no segmento abordagem da cidade cuiaba no provedor C, Rompimento nos trecho entre os trechos ['span5', 'span11'];2.013106620531457;226.85571389416432
+Falha operacional ocasionada por interrupção de energia, que atingiu o repetidor e afetou 113 sites de acesso da cidade e região;0.8830661408474607;138.4924299251225
+Falha operacional causada por suspensão de climatização, que atingiu o hub e afetou 169 sites de acesso da cidade e região;1.4676456748096545;234.58806296216753
+Falha na infraestrutura provocada por interrupção de equipamento;5.693760939909174;238.78739846104563
+Interrupção na infraestrutura devido a vandalismo de energia, que atingiu o abordagem e afetou 143 sites de acesso da cidade e região;0.289232839153754;161.14432835234285
+Instabilidade na transmissão provocada por paralisação de roteador;1.4598020021208185;164.96144055593646
+Problema na transmissão devido a interrupção de fibra ótica, duplo rompimento na rede metropolitana no segmento anel da cidade recife no provedor B, Rompimento nos trecho entre os trechos ['span7', 'span1'];5.9404100058339955;203.98935652235943
+Problema na infraestrutura ocasionada por suspensão de fibra ótica, duplo rompimento na rede longa distancia no segmento agregador da cidade salvador no provedor C, Rompimento nos trecho entre os trechos ['span12', 'span8'];5.812354802343665;231.0481405229361
+Falha operacional devido a interrupção de equipamento;0.7223769256222353;216.5969841558301
+Instabilidade na transmissão causada por suspensão de equipamento;0.25994402100106406;200.74574163157192
+Interrupção na infraestrutura causada por suspensão de equipamento;1.6897111255427584;205.02588875167154
+Instabilidade operacional ocasionada por interrupção de roteador;4.412746602647019;213.08915130339506
+Instabilidade na infraestrutura ocasionada por vandalismo de fibra ótica, duplo rompimento na rede metropolitana no segmento repetidor da cidade macapa no provedor B, Rompimento nos trecho entre os trechos ['span4', 'span11'];6.957427987632733;229.82283333249956
+Problema na infraestrutura causada por interrupção de energia, que atingiu o repetidor e afetou 140 sites de acesso da cidade e região;2.398682621224562;166.61738812535958
+Instabilidade na transmissão ocasionada por queda de fibra ótica, triplo rompimento na rede metropolitana no segmento abordagem da cidade brasilia no provedor A, Rompimento nos trecho entre os trechos ['span10', 'span9', 'span4'];4.5876673714893315;311.4855006609936
+Instabilidade na transmissão devido a paralisação de fibra ótica, simples rompimento na rede longa distancia no segmento repetidor da cidade sao paulo no provedor A, Rompimento nos trecho entre os trechos ['span6'];2.6019774652537078;102.51922914367375
+Problema operacional provocada por suspensão de equipamento;4.431502966901236;88.95042372169792
+Falha na transmissão ocasionada por vandalismo de roteador;4.614827852976199;81.42267779833114
+Falha operacional ocasionada por queda de energia, que atingiu o anel e afetou 116 sites de acesso da cidade e região;2.828886513484804;128.38216864175092
+Instabilidade na infraestrutura ocasionada por suspensão de roteador;0.3191479372760857;133.28773572432985
+Interrupção na infraestrutura provocada por queda de energia, que atingiu o repetidor e afetou 172 sites de acesso da cidade e região;0.659205483625844;151.5209887350038
+Problema operacional causada por queda de fibra ótica, duplo rompimento na rede longa distancia no segmento abordagem da cidade sao luis no provedor E, Rompimento nos trecho entre os trechos ['span4', 'span7'];3.1179586037989333;198.94622357267343
+Instabilidade operacional ocasionada por suspensão de roteador;1.4362322178436775;197.76527178878808
+Interrupção na infraestrutura provocada por paralisação de fibra ótica, triplo rompimento na rede regional no segmento abordagem da cidade boa vista no provedor B, Rompimento nos trecho entre os trechos ['span4', 'span4', 'span11'];2.7410179284323375;309.9707503903164
+Interrupção na transmissão devido a interrupção de fibra ótica, triplo rompimento na rede regional no segmento abordagem da cidade vitoria no provedor B, Rompimento nos trecho entre os trechos ['span6', 'span6', 'span4'];0.435913624285476;309.2687986672747
+Instabilidade na transmissão causada por suspensão de energia, que atingiu o repetidor e afetou 111 sites de acesso da cidade e região;0.6249272586651273;120.18720121825802
+Interrupção na transmissão ocasionada por suspensão de roteador;0.9678730956167196;184.9793902035598
+Interrupção na infraestrutura provocada por paralisação de equipamento;0.276690147521229;148.39075540774036
+Interrupção operacional provocada por paralisação de fibra ótica, duplo rompimento na rede regional no segmento hub da cidade manaus no provedor C, Rompimento nos trecho entre os trechos ['span6', 'span9'];4.110722173596585;199.18712552076784
+Problema na infraestrutura ocasionada por suspensão de energia, que atingiu o anel e afetou 78 sites de acesso da cidade e região;1.926249258870274;133.6759307739675
+Problema na infraestrutura causada por queda de equipamento;0.8588922042222368;157.2397551434129
+Problema na infraestrutura provocada por suspensão de fibra ótica, duplo rompimento na rede regional no segmento hub da cidade teresina no provedor E, Rompimento nos trecho entre os trechos ['span1', 'span1'];4.962279938125409;248.7116723479976
+Interrupção na infraestrutura devido a interrupção de equipamento;0.11850159920599468;214.77257160096
+Problema operacional provocada por vandalismo de fibra ótica, duplo rompimento na rede longa distancia no segmento anel da cidade natal no provedor C, Rompimento nos trecho entre os trechos ['span10', 'span10'];3.7103782074406726;221.86621549523502
+Falha operacional ocasionada por vandalismo de climatização, que atingiu o hub e afetou 100 sites de acesso da cidade e região;1.385180296740808;276.5501875033172
+Instabilidade operacional devido a paralisação de fibra ótica, triplo rompimento na rede longa distancia no segmento abordagem da cidade cuiaba no provedor C, Rompimento nos trecho entre os trechos ['span2', 'span11', 'span1'];3.653345807653985;308.9991977303314
+Interrupção na transmissão provocada por interrupção de energia, que atingiu o agregador e afetou 160 sites de acesso da cidade e região;4.2969266003456035;125.72392115122308
+Problema na transmissão provocada por queda de energia, que atingiu o hub e afetou 41 sites de acesso da cidade e região;1.1185199201154257;127.13727629222099
+Instabilidade na transmissão ocasionada por vandalismo de fibra ótica, triplo rompimento na rede regional no segmento hub da cidade brasilia no provedor B, Rompimento nos trecho entre os trechos ['span6', 'span9', 'span2'];2.918360217218159;328.6705696214606
+Falha na infraestrutura devido a vandalismo de fibra ótica, triplo rompimento na rede regional no segmento hub da cidade porto velho no provedor B, Rompimento nos trecho entre os trechos ['span1', 'span6', 'span12'];2.0939040461588165;332.348839713924
+Falha na transmissão causada por suspensão de fibra ótica, simples rompimento na rede metropolitana no segmento agregador da cidade boa vista no provedor E, Rompimento nos trecho entre os trechos ['span12'];0.9408057566228594;100.75270305350688
+Instabilidade na infraestrutura ocasionada por suspensão de fibra ótica, triplo rompimento na rede regional no segmento hub da cidade manaus no provedor E, Rompimento nos trecho entre os trechos ['span12', 'span8', 'span5'];3.6690656634179106;318.9783477306866
+Instabilidade na transmissão ocasionada por queda de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade cuiaba no provedor E, Rompimento nos trecho entre os trechos ['span11', 'span12', 'span11'];3.3220212384778924;314.3766910501004
+Falha operacional devido a queda de fibra ótica, simples rompimento na rede metropolitana no segmento repetidor da cidade porto velho no provedor B, Rompimento nos trecho entre os trechos ['span2'];4.88639733275015;98.90469898902872
+Problema na transmissão ocasionada por paralisação de fibra ótica, triplo rompimento na rede metropolitana no segmento repetidor da cidade maceio no provedor C, Rompimento nos trecho entre os trechos ['span3', 'span1', 'span4'];1.6564467413572408;297.55777458344494
+Problema operacional provocada por suspensão de roteador;2.0596717323990035;307.5781581624087
+Problema operacional devido a suspensão de energia, que atingiu o repetidor e afetou 57 sites de acesso da cidade e região;2.953170659497217;141.6597724676
+Instabilidade na transmissão devido a paralisação de climatização, que atingiu o agregador e afetou 127 sites de acesso da cidade e região;3.9977884036429145;232.162642616108
+Problema operacional provocada por paralisação de fibra ótica, duplo rompimento na rede regional no segmento hub da cidade aracaju no provedor C, Rompimento nos trecho entre os trechos ['span5', 'span1'];4.112550061160849;201.6923607161504
+Interrupção na infraestrutura ocasionada por vandalismo de equipamento;2.2738952536735635;202.71248639137252
+Instabilidade na transmissão ocasionada por paralisação de roteador;8.61630657707216;212.99179545484367
+Falha operacional devido a paralisação de climatização, que atingiu o hub e afetou 172 sites de acesso da cidade e região;0.3390247378755936;259.1325741939929
+Instabilidade na infraestrutura causada por interrupção de fibra ótica, duplo rompimento na rede regional no segmento anel da cidade maceio no provedor C, Rompimento nos trecho entre os trechos ['span6', 'span9'];4.454000886161623;225.59263684514184
+Interrupção operacional devido a interrupção de roteador;1.3723116733421978;209.2846153564093
+Problema na transmissão causada por suspensão de fibra ótica, triplo rompimento na rede regional no segmento repetidor da cidade porto alegre no provedor C, Rompimento nos trecho entre os trechos ['span6', 'span7', 'span9'];4.997994080575361;296.8087281806025
+Problema na infraestrutura provocada por vandalismo de fibra ótica, triplo rompimento na rede regional no segmento anel da cidade teresina no provedor B, Rompimento nos trecho entre os trechos ['span6', 'span5', 'span10'];2.1872293699769827;309.09200075348684
+Problema na infraestrutura devido a vandalismo de fibra ótica, triplo rompimento na rede metropolitana no segmento agregador da cidade maceio no provedor C, Rompimento nos trecho entre os trechos ['span4', 'span6', 'span8'];2.240183347644742;300.92272263045885
+Problema na infraestrutura causada por vandalismo de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade fortaleza no provedor E, Rompimento nos trecho entre os trechos ['span6', 'span5', 'span5'];1.6459358442047276;305.1137420999495
+Problema na infraestrutura causada por interrupção de equipamento;2.9408450189406867;310.24808965201044
+Problema na transmissão causada por vandalismo de fibra ótica, duplo rompimento na rede regional no segmento abordagem da cidade curitiba no provedor C, Rompimento nos trecho entre os trechos ['span8', 'span5'];2.257045496451785;214.99108814459345
+Instabilidade na transmissão ocasionada por suspensão de fibra ótica, triplo rompimento na rede longa distancia no segmento abordagem da cidade joao pessoa no provedor C, Rompimento nos trecho entre os trechos ['span5', 'span4', 'span5'];4.494959376235164;315.3320738445363
+Falha operacional provocada por interrupção de energia, que atingiu o anel e afetou 52 sites de acesso da cidade e região;0.6191032997333302;165.93559647212928
+Problema na transmissão causada por paralisação de fibra ótica, simples rompimento na rede longa distancia no segmento abordagem da cidade recife no provedor D, Rompimento nos trecho entre os trechos ['span12'];2.0505007053754527;94.21513806258035
+Problema na transmissão devido a paralisação de fibra ótica, simples rompimento na rede metropolitana no segmento repetidor da cidade sao luis no provedor B, Rompimento nos trecho entre os trechos ['span1'];2.9767041010330484;104.05860265573129
+Interrupção na infraestrutura provocada por interrupção de fibra ótica, simples rompimento na rede longa distancia no segmento repetidor da cidade belo horizonte no provedor C, Rompimento nos trecho entre os trechos ['span9'];1.8420477169764524;99.90794839978587
+Instabilidade na infraestrutura causada por interrupção de fibra ótica, duplo rompimento na rede metropolitana no segmento hub da cidade aracaju no provedor A, Rompimento nos trecho entre os trechos ['span9', 'span11'];3.584682404379428;226.61565579820297
+Instabilidade na infraestrutura ocasionada por interrupção de energia, que atingiu o agregador e afetou 191 sites de acesso da cidade e região;2.2576939800544507;149.51220858155136
+Falha na transmissão provocada por queda de fibra ótica, triplo rompimento na rede regional no segmento hub da cidade sao paulo no provedor C, Rompimento nos trecho entre os trechos ['span9', 'span5', 'span7'];3.243999877328268;336.4046846592382
+Problema na transmissão devido a interrupção de fibra ótica, duplo rompimento na rede longa distancia no segmento abordagem da cidade vitoria no provedor C, Rompimento nos trecho entre os trechos ['span8', 'span6'];2.0902855411360917;219.53273999201912
+Instabilidade na transmissão devido a paralisação de fibra ótica, simples rompimento na rede longa distancia no segmento repetidor da cidade fortaleza no provedor C, Rompimento nos trecho entre os trechos ['span2'];4.879454803903615;122.48039532833982
+Interrupção operacional provocada por suspensão de equipamento;0.4180806026626126;109.63319869744976
+Interrupção na infraestrutura devido a suspensão de equipamento;0.2952600870987856;101.46779087541383
+Interrupção operacional ocasionada por interrupção de climatização, que atingiu o repetidor e afetou 141 sites de acesso da cidade e região;1.1116708081572086;288.63595858075826
+Problema na infraestrutura devido a vandalismo de equipamento;1.141271244929429;269.0750073580986
+Interrupção na infraestrutura provocada por queda de fibra ótica, simples rompimento na rede longa distancia no segmento anel da cidade cuiaba no provedor C, Rompimento nos trecho entre os trechos ['span4'];2.8393753191621385;114.46780953166835
+Problema operacional causada por suspensão de fibra ótica, duplo rompimento na rede longa distancia no segmento anel da cidade joao pessoa no provedor C, Rompimento nos trecho entre os trechos ['span6', 'span9'];2.2560412819933306;214.22963625362243
+Interrupção na infraestrutura provocada por suspensão de climatização, que atingiu o repetidor e afetou 160 sites de acesso da cidade e região;0.14450987381983837;283.04860882599246
+Falha operacional provocada por paralisação de fibra ótica, simples rompimento na rede regional no segmento abordagem da cidade cuiaba no provedor C, Rompimento nos trecho entre os trechos ['span10'];3.0742134917772774;105.9206973684128
+Problema na infraestrutura causada por suspensão de fibra ótica, triplo rompimento na rede metropolitana no segmento agregador da cidade sao paulo no provedor D, Rompimento nos trecho entre os trechos ['span2', 'span2', 'span7'];2.826972746989613;346.314637000039
+Problema na infraestrutura causada por interrupção de fibra ótica, triplo rompimento na rede longa distancia no segmento hub da cidade natal no provedor C, Rompimento nos trecho entre os trechos ['span7', 'span9', 'span2'];3.7990295491911636;307.3765639422928
+Interrupção na infraestrutura ocasionada por interrupção de fibra ótica, duplo rompimento na rede longa distancia no segmento agregador da cidade macapa no provedor B, Rompimento nos trecho entre os trechos ['span11', 'span11'];4.151378795284128;191.5958174128215
+Interrupção operacional ocasionada por suspensão de fibra ótica, duplo rompimento na rede longa distancia no segmento hub da cidade sao paulo no provedor B, Rompimento nos trecho entre os trechos ['span8', 'span11'];4.479998231897179;182.14073469808946
+Interrupção na transmissão ocasionada por interrupção de energia, que atingiu o agregador e afetou 60 sites de acesso da cidade e região;2.4790159151623037;101.0811998991392
+Falha operacional ocasionada por vandalismo de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade curitiba no provedor C, Rompimento nos trecho entre os trechos ['span2', 'span4', 'span6'];4.691632233999399;313.0961768058305
+Interrupção na transmissão causada por suspensão de fibra ótica, triplo rompimento na rede longa distancia no segmento anel da cidade florianopolis no provedor C, Rompimento nos trecho entre os trechos ['span9', 'span8', 'span8'];2.9073553735782416;311.91746367873367
+Problema na infraestrutura ocasionada por queda de fibra ótica, triplo rompimento na rede regional no segmento repetidor da cidade boa vista no provedor D, Rompimento nos trecho entre os trechos ['span10', 'span6', 'span12'];2.3246381185252813;319.53864810070866
+Falha operacional devido a suspensão de energia, que atingiu o anel e afetou 54 sites de acesso da cidade e região;1.223039917815659;172.77902807715762
+Interrupção na infraestrutura ocasionada por interrupção de fibra ótica, duplo rompimento na rede longa distancia no segmento hub da cidade cuiaba no provedor E, Rompimento nos trecho entre os trechos ['span4', 'span3'];2.0739693680923;205.52117809262035
+Instabilidade na transmissão ocasionada por suspensão de fibra ótica, simples rompimento na rede metropolitana no segmento abordagem da cidade recife no provedor E, Rompimento nos trecho entre os trechos ['span4'];3.2340263714972597;91.34899383170146
+Instabilidade na infraestrutura causada por queda de energia, que atingiu o hub e afetou 189 sites de acesso da cidade e região;5.129137179494355;165.56849419918805
+Problema na infraestrutura causada por paralisação de fibra ótica, simples rompimento na rede longa distancia no segmento repetidor da cidade natal no provedor C, Rompimento nos trecho entre os trechos ['span10'];3.226159282134592;113.30526813810114
+Instabilidade na infraestrutura ocasionada por queda de roteador;3.819519844164849;115.5994190220656
+Problema na infraestrutura ocasionada por vandalismo de energia, que atingiu o anel e afetou 113 sites de acesso da cidade e região;1.1517256735454646;173.93909598304174
+Instabilidade na transmissão causada por interrupção de energia, que atingiu o repetidor e afetou 198 sites de acesso da cidade e região;0.9009308790829579;113.48016577094516
+Problema operacional devido a vandalismo de roteador;2.7988180327773664;132.03286613988834
+Problema na transmissão provocada por vandalismo de fibra ótica, simples rompimento na rede longa distancia no segmento agregador da cidade natal no provedor C, Rompimento nos trecho entre os trechos ['span1'];3.1175549081420053;88.90306962448274
+Instabilidade operacional provocada por suspensão de roteador;0.9328247208453235;115.549676529725
+Instabilidade na infraestrutura causada por paralisação de energia, que atingiu o anel e afetou 51 sites de acesso da cidade e região;3.237503855717363;178.70693447139874
+Instabilidade na infraestrutura devido a vandalismo de energia, que atingiu o hub e afetou 125 sites de acesso da cidade e região;0.9147865793602848;113.19076864479415
+Instabilidade na transmissão causada por interrupção de fibra ótica, duplo rompimento na rede regional no segmento repetidor da cidade macapa no provedor C, Rompimento nos trecho entre os trechos ['span8', 'span6'];2.5388419517700367;195.13442198563894
+Interrupção na transmissão devido a queda de fibra ótica, duplo rompimento na rede metropolitana no segmento abordagem da cidade vitoria no provedor C, Rompimento nos trecho entre os trechos ['span4', 'span10'];1.7425212406950772;219.6236386930758
+Problema operacional ocasionada por paralisação de energia, que atingiu o anel e afetou 182 sites de acesso da cidade e região;0.19303540558687304;129.8580940114011
+Interrupção na transmissão causada por queda de energia, que atingiu o abordagem e afetou 198 sites de acesso da cidade e região;0.8512176190130306;154.93838157947172
+Falha operacional devido a vandalismo de fibra ótica, simples rompimento na rede regional no segmento repetidor da cidade manaus no provedor B, Rompimento nos trecho entre os trechos ['span9'];2.046523301555884;101.55240559225243
+Falha operacional devido a vandalismo de roteador;4.167647710504671;91.2126396527712
+Interrupção na infraestrutura provocada por interrupção de fibra ótica, triplo rompimento na rede longa distancia no segmento repetidor da cidade boa vista no provedor C, Rompimento nos trecho entre os trechos ['span7', 'span8', 'span9'];3.903773113269491;329.1308414282524
+Interrupção na transmissão causada por paralisação de fibra ótica, triplo rompimento na rede metropolitana no segmento abordagem da cidade curitiba no provedor C, Rompimento nos trecho entre os trechos ['span10', 'span4', 'span6'];4.112579267836232;308.02024315863866
+Instabilidade na infraestrutura provocada por paralisação de fibra ótica, simples rompimento na rede longa distancia no segmento abordagem da cidade natal no provedor A, Rompimento nos trecho entre os trechos ['span3'];4.667997268165661;104.72599933583346
+Problema operacional provocada por queda de energia, que atingiu o hub e afetou 97 sites de acesso da cidade e região;2.836857357782114;150.66815049719807
+Instabilidade operacional ocasionada por suspensão de energia, que atingiu o abordagem e afetou 176 sites de acesso da cidade e região;1.9758481665783982;161.93415215461107
+Instabilidade operacional ocasionada por paralisação de equipamento;5.8779632511939255;189.00162568804046
+Falha na infraestrutura ocasionada por vandalismo de climatização, que atingiu o repetidor e afetou 33 sites de acesso da cidade e região;3.812122172747298;273.9067292669235
+Instabilidade na transmissão devido a queda de fibra ótica, duplo rompimento na rede longa distancia no segmento hub da cidade manaus no provedor E, Rompimento nos trecho entre os trechos ['span1', 'span4'];4.4215990605738975;205.45379425992843
+Interrupção na transmissão causada por suspensão de energia, que atingiu o abordagem e afetou 72 sites de acesso da cidade e região;1.6233747748327043;135.822436470149
+Instabilidade na transmissão causada por interrupção de energia, que atingiu o anel e afetou 93 sites de acesso da cidade e região;1.1043333204616248;156.33017997125953
+Problema na infraestrutura devido a queda de roteador;1.4561730172769878;157.14946771599554
+Falha na infraestrutura causada por interrupção de energia, que atingiu o anel e afetou 112 sites de acesso da cidade e região;3.4574965349790756;153.69188775577177
+Falha na infraestrutura ocasionada por vandalismo de fibra ótica, simples rompimento na rede metropolitana no segmento hub da cidade vitoria no provedor C, Rompimento nos trecho entre os trechos ['span3'];2.851317812694398;112.80974954696376
+Interrupção na transmissão devido a vandalismo de energia, que atingiu o anel e afetou 100 sites de acesso da cidade e região;0.2720369730036256;128.9943906417876
+Instabilidade na infraestrutura provocada por queda de fibra ótica, triplo rompimento na rede longa distancia no segmento agregador da cidade joao pessoa no provedor A, Rompimento nos trecho entre os trechos ['span8', 'span3', 'span11'];3.215489988568396;292.1607284638918
+Problema operacional causada por suspensão de fibra ótica, simples rompimento na rede regional no segmento anel da cidade campo grande no provedor C, Rompimento nos trecho entre os trechos ['span9'];3.517465967453191;125.65479552895354
+Falha operacional ocasionada por suspensão de energia, que atingiu o abordagem e afetou 46 sites de acesso da cidade e região;7.155430019225857;126.4620941064328
+Instabilidade na transmissão provocada por paralisação de fibra ótica, simples rompimento na rede regional no segmento agregador da cidade joao pessoa no provedor B, Rompimento nos trecho entre os trechos ['span11'];0.44413653981167034;111.28604032438085
+Interrupção na infraestrutura devido a suspensão de equipamento;0.14665411880214385;100.67952159915029
+Instabilidade na infraestrutura provocada por queda de roteador;3.827540788496967;116.73256868258574
+Interrupção na infraestrutura ocasionada por paralisação de climatização, que atingiu o repetidor e afetou 185 sites de acesso da cidade e região;4.33202699847495;180.52788090374295
+Problema operacional provocada por queda de energia, que atingiu o repetidor e afetou 136 sites de acesso da cidade e região;0.05532628573410381;150.7440992625686
+Interrupção na infraestrutura devido a queda de roteador;1.2477976082256528;116.83259817160233
+Problema na transmissão devido a suspensão de fibra ótica, duplo rompimento na rede metropolitana no segmento agregador da cidade vitoria no provedor C, Rompimento nos trecho entre os trechos ['span11', 'span8'];3.4903767802183934;207.152279301274
+Falha operacional devido a vandalismo de fibra ótica, triplo rompimento na rede longa distancia no segmento abordagem da cidade porto velho no provedor B, Rompimento nos trecho entre os trechos ['span5', 'span7', 'span10'];4.231893812261719;307.38372858872015
+Falha na infraestrutura ocasionada por suspensão de fibra ótica, duplo rompimento na rede metropolitana no segmento abordagem da cidade recife no provedor A, Rompimento nos trecho entre os trechos ['span10', 'span8'];3.342525818828239;220.44250315199113
+Falha na transmissão ocasionada por interrupção de fibra ótica, simples rompimento na rede regional no segmento abordagem da cidade salvador no provedor E, Rompimento nos trecho entre os trechos ['span7'];2.6936602012517414;107.25013970950455
+Interrupção na infraestrutura provocada por paralisação de fibra ótica, triplo rompimento na rede longa distancia no segmento repetidor da cidade joao pessoa no provedor C, Rompimento nos trecho entre os trechos ['span6', 'span4', 'span11'];0.031176987151358748;291.48968652080663
+Interrupção operacional provocada por suspensão de roteador;1.1477655916339389;292.39790595358727
+Falha na infraestrutura causada por queda de energia, que atingiu o abordagem e afetou 91 sites de acesso da cidade e região;0.044751180522651146;192.3588209688493
+Problema na infraestrutura causada por suspensão de fibra ótica, simples rompimento na rede regional no segmento repetidor da cidade porto velho no provedor B, Rompimento nos trecho entre os trechos ['span5'];3.0561636196349724;129.4245869253636
+Falha na transmissão provocada por suspensão de fibra ótica, triplo rompimento na rede longa distancia no segmento anel da cidade florianopolis no provedor E, Rompimento nos trecho entre os trechos ['span12', 'span7', 'span9'];4.788839680486442;296.9228001041564
+Instabilidade na transmissão ocasionada por suspensão de fibra ótica, simples rompimento na rede metropolitana no segmento hub da cidade belo horizonte no provedor E, Rompimento nos trecho entre os trechos ['span9'];2.4980348116591466;97.36213767051056
+Falha operacional causada por vandalismo de fibra ótica, duplo rompimento na rede metropolitana no segmento abordagem da cidade boa vista no provedor A, Rompimento nos trecho entre os trechos ['span4', 'span9'];4.5949031085178405;213.92070008880887
+Falha na infraestrutura causada por interrupção de fibra ótica, triplo rompimento na rede longa distancia no segmento abordagem da cidade natal no provedor C, Rompimento nos trecho entre os trechos ['span5', 'span10', 'span1'];2.647042217810158;328.7783422885946
+Interrupção operacional ocasionada por interrupção de fibra ótica, triplo rompimento na rede longa distancia no segmento hub da cidade fortaleza no provedor B, Rompimento nos trecho entre os trechos ['span7', 'span6', 'span4'];1.3855109731771877;305.24972257473127
+Falha na infraestrutura provocada por paralisação de energia, que atingiu o repetidor e afetou 142 sites de acesso da cidade e região;1.3614955430129045;154.1778319936529
+Instabilidade operacional ocasionada por interrupção de fibra ótica, duplo rompimento na rede regional no segmento repetidor da cidade palmas no provedor E, Rompimento nos trecho entre os trechos ['span11', 'span11'];3.906948543526405;217.84749118085549
+Instabilidade na transmissão ocasionada por interrupção de fibra ótica, duplo rompimento na rede longa distancia no segmento hub da cidade sao luis no provedor B, Rompimento nos trecho entre os trechos ['span6', 'span4'];3.7753403140334876;214.61317269142552
+Falha operacional devido a paralisação de fibra ótica, triplo rompimento na rede regional no segmento abordagem da cidade porto velho no provedor E, Rompimento nos trecho entre os trechos ['span11', 'span10', 'span7'];2.261319581875368;314.17846266019365
+Problema operacional devido a interrupção de fibra ótica, triplo rompimento na rede regional no segmento agregador da cidade boa vista no provedor E, Rompimento nos trecho entre os trechos ['span4', 'span7', 'span4'];1.0208169459191314;313.1221139847068
+Interrupção na transmissão provocada por interrupção de energia, que atingiu o hub e afetou 131 sites de acesso da cidade e região;2.6972479371614932;151.05967959508874
+Instabilidade operacional devido a vandalismo de energia, que atingiu o anel e afetou 164 sites de acesso da cidade e região;5.619504837043223;171.47599005919014
+Instabilidade operacional ocasionada por suspensão de fibra ótica, duplo rompimento na rede longa distancia no segmento anel da cidade maceio no provedor C, Rompimento nos trecho entre os trechos ['span7', 'span1'];4.573379553869032;213.2100657100634
+Problema na infraestrutura causada por paralisação de fibra ótica, simples rompimento na rede metropolitana no segmento repetidor da cidade rio de janeeiro no provedor A, Rompimento nos trecho entre os trechos ['span10'];1.0216533417666138;110.71194710667123
+Falha na transmissão provocada por queda de equipamento;0.82338571278535;99.1389655538394
+Falha na infraestrutura causada por vandalismo de energia, que atingiu o hub e afetou 61 sites de acesso da cidade e região;1.1332906849459112;130.78754158727543
+Problema na infraestrutura causada por suspensão de energia, que atingiu o agregador e afetou 106 sites de acesso da cidade e região;1.6985845857655635;103.75595116335633
+Interrupção na infraestrutura provocada por paralisação de energia, que atingiu o agregador e afetou 39 sites de acesso da cidade e região;2.0501171549771287;157.0374706089315
+Instabilidade na infraestrutura causada por suspensão de fibra ótica, simples rompimento na rede longa distancia no segmento abordagem da cidade palmas no provedor E, Rompimento nos trecho entre os trechos ['span1'];2.788558396358061;99.42658563607465
+Falha na infraestrutura devido a vandalismo de equipamento;4.337008087132522;120.06040554253069
+Instabilidade operacional devido a queda de fibra ótica, duplo rompimento na rede regional no segmento anel da cidade rio de janeeiro no provedor D, Rompimento nos trecho entre os trechos ['span3', 'span9'];2.6690934622994362;219.64877473380625
+Interrupção na transmissão ocasionada por interrupção de fibra ótica, triplo rompimento na rede metropolitana no segmento abordagem da cidade campo grande no provedor B, Rompimento nos trecho entre os trechos ['span4', 'span10', 'span9'];2.0554045151387315;310.62896015470255
+Interrupção na transmissão provocada por interrupção de climatização, que atingiu o agregador e afetou 51 sites de acesso da cidade e região;3.8212706301437844;239.62303948098972
+Interrupção na transmissão causada por paralisação de fibra ótica, triplo rompimento na rede longa distancia no segmento repetidor da cidade florianopolis no provedor B, Rompimento nos trecho entre os trechos ['span12', 'span7', 'span7'];9.602754811844319;305.1512253259005
+Interrupção operacional provocada por interrupção de energia, que atingiu o abordagem e afetou 64 sites de acesso da cidade e região;4.22051786698607;145.4025807177212
+Falha na transmissão provocada por interrupção de equipamento;1.5828628748055418;138.2050859230683
+Problema na transmissão ocasionada por paralisação de energia, que atingiu o anel e afetou 57 sites de acesso da cidade e região;2.452115183877153;138.41481923108782
+Problema na transmissão provocada por vandalismo de energia, que atingiu o agregador e afetou 178 sites de acesso da cidade e região;0.5712120952740489;187.91023589080396
+Interrupção na transmissão provocada por suspensão de fibra ótica, simples rompimento na rede metropolitana no segmento agregador da cidade palmas no provedor B, Rompimento nos trecho entre os trechos ['span10'];1.9823898303869212;111.8240152177273
+Problema operacional causada por queda de fibra ótica, triplo rompimento na rede regional no segmento agregador da cidade belo horizonte no provedor B, Rompimento nos trecho entre os trechos ['span8', 'span12', 'span4'];4.032935502457519;326.3963517846942
+Instabilidade na transmissão provocada por interrupção de energia, que atingiu o agregador e afetou 86 sites de acesso da cidade e região;1.2707216852240415;170.99006446349284
+Falha na transmissão devido a suspensão de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade joao pessoa no provedor D, Rompimento nos trecho entre os trechos ['span10', 'span7', 'span8'];0.4235565169982082;307.1226277223175
+Instabilidade na infraestrutura causada por suspensão de equipamento;4.729987542120382;324.5187732432989
+Instabilidade na infraestrutura devido a vandalismo de fibra ótica, duplo rompimento na rede regional no segmento agregador da cidade sao luis no provedor E, Rompimento nos trecho entre os trechos ['span4', 'span8'];3.3342104898201597;210.78207661084738
+Falha operacional causada por suspensão de fibra ótica, triplo rompimento na rede metropolitana no segmento abordagem da cidade campo grande no provedor C, Rompimento nos trecho entre os trechos ['span7', 'span8', 'span4'];2.581985936988258;322.8017520471743
+Instabilidade operacional devido a interrupção de climatização, que atingiu o anel e afetou 115 sites de acesso da cidade e região;0.03122852183777458;244.4528562926986
+Problema operacional devido a interrupção de energia, que atingiu o hub e afetou 96 sites de acesso da cidade e região;2.769144592980051;99.68985044386854
+Instabilidade operacional causada por suspensão de climatização, que atingiu o repetidor e afetou 120 sites de acesso da cidade e região;1.6368736932593597;233.79537449879436
+Falha na infraestrutura devido a vandalismo de fibra ótica, simples rompimento na rede longa distancia no segmento anel da cidade palmas no provedor B, Rompimento nos trecho entre os trechos ['span2'];2.727148389098633;92.00151810905162
+Falha operacional ocasionada por queda de fibra ótica, simples rompimento na rede regional no segmento agregador da cidade curitiba no provedor A, Rompimento nos trecho entre os trechos ['span3'];2.7349999494499952;115.27325781722723
+Instabilidade na transmissão devido a vandalismo de climatização, que atingiu o repetidor e afetou 21 sites de acesso da cidade e região;1.2274862339717687;231.6407372198865
+Interrupção na infraestrutura ocasionada por suspensão de fibra ótica, triplo rompimento na rede regional no segmento anel da cidade macapa no provedor E, Rompimento nos trecho entre os trechos ['span8', 'span4', 'span6'];4.1996801546463125;331.4346786286534
+Interrupção na infraestrutura causada por queda de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade cuiaba no provedor C, Rompimento nos trecho entre os trechos ['span12', 'span1', 'span11'];2.5423900674074416;317.25474860783896
+Problema na infraestrutura ocasionada por vandalismo de fibra ótica, duplo rompimento na rede longa distancia no segmento anel da cidade campo grande no provedor E, Rompimento nos trecho entre os trechos ['span1', 'span7'];3.9187888248610268;193.37627720185606
+Interrupção operacional causada por paralisação de equipamento;4.971846889827372;206.97929264460925
+Interrupção na transmissão causada por vandalismo de fibra ótica, duplo rompimento na rede metropolitana no segmento agregador da cidade porto velho no provedor C, Rompimento nos trecho entre os trechos ['span9', 'span11'];2.480503746606699;209.1627763320352
+Instabilidade operacional devido a suspensão de roteador;1.5753968653397623;223.16770817277603
+Instabilidade na transmissão causada por vandalismo de equipamento;0.659179512895041;210.53864597019245
+Falha na infraestrutura devido a paralisação de roteador;1.231681845575738;216.8599675882243
+Problema na transmissão ocasionada por suspensão de fibra ótica, simples rompimento na rede regional no segmento abordagem da cidade boa vista no provedor C, Rompimento nos trecho entre os trechos ['span6'];1.2032490377127396;100.10036715949462
+Instabilidade na transmissão provocada por queda de fibra ótica, duplo rompimento na rede metropolitana no segmento repetidor da cidade vitoria no provedor E, Rompimento nos trecho entre os trechos ['span11', 'span9'];2.4733357034177375;202.6064677513238
+Interrupção na infraestrutura ocasionada por suspensão de roteador;1.5177573398489028;214.9113909267413
+Problema na transmissão ocasionada por queda de fibra ótica, triplo rompimento na rede metropolitana no segmento agregador da cidade porto alegre no provedor A, Rompimento nos trecho entre os trechos ['span3', 'span2', 'span5'];4.388586532816642;330.25146332172716
+Instabilidade operacional causada por interrupção de fibra ótica, simples rompimento na rede regional no segmento abordagem da cidade fortaleza no provedor C, Rompimento nos trecho entre os trechos ['span4'];5.919171055594742;90.90655111779199
+Interrupção na transmissão ocasionada por suspensão de fibra ótica, duplo rompimento na rede metropolitana no segmento agregador da cidade teresina no provedor C, Rompimento nos trecho entre os trechos ['span5', 'span1'];3.3907351915549517;215.7139767652683
+Problema na transmissão causada por suspensão de fibra ótica, simples rompimento na rede metropolitana no segmento repetidor da cidade belem no provedor D, Rompimento nos trecho entre os trechos ['span11'];4.057504956162034;101.81495546335005
+Interrupção na transmissão provocada por interrupção de energia, que atingiu o agregador e afetou 126 sites de acesso da cidade e região;4.658879801869096;166.3759006001685
+Problema na infraestrutura devido a vandalismo de fibra ótica, triplo rompimento na rede longa distancia no segmento repetidor da cidade maceio no provedor C, Rompimento nos trecho entre os trechos ['span11', 'span4', 'span8'];3.02028419500147;303.6733132302389
+Falha na infraestrutura devido a vandalismo de fibra ótica, triplo rompimento na rede longa distancia no segmento abordagem da cidade porto alegre no provedor E, Rompimento nos trecho entre os trechos ['span7', 'span10', 'span2'];2.0113514238819343;309.7494770239782
+Problema operacional causada por queda de fibra ótica, simples rompimento na rede longa distancia no segmento anel da cidade boa vista no provedor B, Rompimento nos trecho entre os trechos ['span9'];4.328151535833131;120.68503200654318
+Problema na transmissão causada por queda de fibra ótica, simples rompimento na rede regional no segmento hub da cidade palmas no provedor C, Rompimento nos trecho entre os trechos ['span6'];2.119065252108426;94.54621681518691
+Interrupção na transmissão causada por interrupção de fibra ótica, simples rompimento na rede metropolitana no segmento anel da cidade porto velho no provedor C, Rompimento nos trecho entre os trechos ['span4'];8.96510400474415;108.51230770582691
+Problema na infraestrutura ocasionada por paralisação de energia, que atingiu o agregador e afetou 188 sites de acesso da cidade e região;0.3873731592287054;146.1204538828575
+Interrupção na transmissão provocada por interrupção de fibra ótica, duplo rompimento na rede metropolitana no segmento agregador da cidade brasilia no provedor B, Rompimento nos trecho entre os trechos ['span3', 'span9'];2.50621339250454;209.06453510032617
+Problema na infraestrutura provocada por queda de equipamento;0.6868296695178676;193.55624990427825
+Interrupção na infraestrutura provocada por paralisação de climatização, que atingiu o anel e afetou 142 sites de acesso da cidade e região;0.9274077760040743;223.38329768919556
+Problema na transmissão provocada por interrupção de equipamento;4.599857460908793;215.85269143180736
+Falha na transmissão ocasionada por suspensão de roteador;0.42140605512867524;244.63436706344723
+Interrupção operacional provocada por queda de roteador;4.203876929028237;256.87621373647016
+Problema operacional devido a suspensão de fibra ótica, simples rompimento na rede metropolitana no segmento repetidor da cidade vitoria no provedor E, Rompimento nos trecho entre os trechos ['span12'];3.203236868239423;101.74079072764893
+Problema operacional provocada por vandalismo de energia, que atingiu o agregador e afetou 94 sites de acesso da cidade e região;2.92597283629635;114.64287622774839
+Interrupção operacional causada por queda de energia, que atingiu o abordagem e afetou 93 sites de acesso da cidade e região;1.838582236488898;167.8851668860345
+Interrupção operacional causada por vandalismo de energia, que atingiu o hub e afetou 25 sites de acesso da cidade e região;1.2841374148222862;171.75412146278256
+Instabilidade na transmissão ocasionada por interrupção de fibra ótica, duplo rompimento na rede longa distancia no segmento agregador da cidade recife no provedor E, Rompimento nos trecho entre os trechos ['span4', 'span5'];2.1586595301590092;196.53237856460714
+Falha na infraestrutura causada por queda de energia, que atingiu o hub e afetou 62 sites de acesso da cidade e região;1.1600028985374706;145.73924329601752
+Interrupção operacional causada por queda de equipamento;1.935859137035716;171.97261709238364
+Problema na transmissão ocasionada por paralisação de fibra ótica, triplo rompimento na rede regional no segmento hub da cidade palmas no provedor B, Rompimento nos trecho entre os trechos ['span5', 'span12', 'span12'];2.609917115135495;322.06120143898175
+Problema operacional provocada por vandalismo de fibra ótica, duplo rompimento na rede metropolitana no segmento hub da cidade boa vista no provedor E, Rompimento nos trecho entre os trechos ['span2', 'span11'];2.8774576647383507;202.50343224160932
+Interrupção operacional devido a interrupção de energia, que atingiu o hub e afetou 165 sites de acesso da cidade e região;0.4989687415641808;167.93636757769315
+Problema na transmissão devido a interrupção de fibra ótica, simples rompimento na rede metropolitana no segmento hub da cidade boa vista no provedor E, Rompimento nos trecho entre os trechos ['span10'];2.8843538127483903;112.15650814685266
+Instabilidade na transmissão devido a suspensão de fibra ótica, simples rompimento na rede regional no segmento hub da cidade natal no provedor C, Rompimento nos trecho entre os trechos ['span7'];2.91836956458842;96.70436965021943
+Falha na transmissão devido a suspensão de equipamento;0.49014374846032993;110.49971588962222
+Interrupção na transmissão ocasionada por paralisação de fibra ótica, duplo rompimento na rede longa distancia no segmento anel da cidade joao pessoa no provedor B, Rompimento nos trecho entre os trechos ['span5', 'span3'];3.223432607449708;217.76518808276427
+Falha na transmissão ocasionada por suspensão de fibra ótica, triplo rompimento na rede metropolitana no segmento agregador da cidade macapa no provedor A, Rompimento nos trecho entre os trechos ['span6', 'span8', 'span3'];4.3046989929731065;301.8484219939755
+Problema operacional provocada por suspensão de energia, que atingiu o anel e afetou 199 sites de acesso da cidade e região;2.3725489358007996;138.07574068981464
+Instabilidade na infraestrutura provocada por suspensão de fibra ótica, triplo rompimento na rede regional no segmento hub da cidade recife no provedor E, Rompimento nos trecho entre os trechos ['span11', 'span3', 'span10'];2.477511648123546;304.52889045037375
+Problema na infraestrutura provocada por queda de fibra ótica, simples rompimento na rede regional no segmento agregador da cidade maceio no provedor B, Rompimento nos trecho entre os trechos ['span10'];2.603030421219071;112.82200280082995
+Falha na transmissão devido a paralisação de roteador;0.9572639199906346;95.08693103798313
+Instabilidade na infraestrutura causada por interrupção de fibra ótica, triplo rompimento na rede regional no segmento anel da cidade recife no provedor E, Rompimento nos trecho entre os trechos ['span10', 'span5', 'span1'];4.552701014020238;321.1709885203139
+Falha operacional devido a vandalismo de climatização, que atingiu o hub e afetou 127 sites de acesso da cidade e região;0.573049717697182;226.32215690646726
+Falha na transmissão devido a vandalismo de fibra ótica, duplo rompimento na rede longa distancia no segmento hub da cidade florianopolis no provedor E, Rompimento nos trecho entre os trechos ['span8', 'span2'];2.2344237946088055;206.97107430388613
+Interrupção na transmissão provocada por vandalismo de fibra ótica, simples rompimento na rede regional no segmento hub da cidade recife no provedor E, Rompimento nos trecho entre os trechos ['span10'];2.7409254396805762;112.80146408023558
+Problema na infraestrutura devido a interrupção de fibra ótica, duplo rompimento na rede longa distancia no segmento repetidor da cidade fortaleza no provedor D, Rompimento nos trecho entre os trechos ['span10', 'span9'];4.30217563068604;217.18366960716108
+Interrupção na transmissão devido a paralisação de energia, que atingiu o repetidor e afetou 36 sites de acesso da cidade e região;1.08643847918837;167.24118060536358
+Falha operacional provocada por queda de fibra ótica, duplo rompimento na rede longa distancia no segmento abordagem da cidade fortaleza no provedor A, Rompimento nos trecho entre os trechos ['span3', 'span11'];1.5535737554093565;227.94508699201847
+Interrupção na transmissão causada por suspensão de climatização, que atingiu o agregador e afetou 161 sites de acesso da cidade e região;1.1090789629554407;253.49842685505354
+Interrupção operacional causada por vandalismo de roteador;0.8553818372389134;262.58704995499414
+Falha na transmissão ocasionada por paralisação de fibra ótica, duplo rompimento na rede metropolitana no segmento agregador da cidade sao luis no provedor B, Rompimento nos trecho entre os trechos ['span5', 'span1'];2.8950433283532084;196.13843682109143
+Problema operacional provocada por queda de fibra ótica, triplo rompimento na rede longa distancia no segmento anel da cidade teresina no provedor E, Rompimento nos trecho entre os trechos ['span1', 'span5', 'span11'];4.7349350143554485;317.2566748201213
+Instabilidade operacional provocada por paralisação de fibra ótica, triplo rompimento na rede longa distancia no segmento repetidor da cidade palmas no provedor E, Rompimento nos trecho entre os trechos ['span4', 'span2', 'span3'];3.780558849181413;328.5574235880154
+Interrupção na transmissão provocada por interrupção de fibra ótica, simples rompimento na rede metropolitana no segmento anel da cidade belem no provedor A, Rompimento nos trecho entre os trechos ['span6'];3.481398556629479;119.7262341884635
+Problema operacional causada por suspensão de roteador;4.2126046850428125;125.85673863144137
+Falha na infraestrutura causada por interrupção de fibra ótica, duplo rompimento na rede metropolitana no segmento anel da cidade rio de janeeiro no provedor B, Rompimento nos trecho entre os trechos ['span3', 'span6'];3.942388783874778;206.25972072956398
+Problema na transmissão causada por queda de energia, que atingiu o hub e afetou 140 sites de acesso da cidade e região;8.17771812431653;154.56721856104164
+Instabilidade na infraestrutura devido a interrupção de fibra ótica, simples rompimento na rede metropolitana no segmento abordagem da cidade sao luis no provedor B, Rompimento nos trecho entre os trechos ['span5'];2.361553513455678;91.56667923577639
+Instabilidade na infraestrutura ocasionada por interrupção de energia, que atingiu o abordagem e afetou 58 sites de acesso da cidade e região;1.4823495444149948;139.44779433933982
+Interrupção operacional causada por paralisação de energia, que atingiu o abordagem e afetou 130 sites de acesso da cidade e região;1.0831174965000745;186.76327199164902
+Falha operacional causada por suspensão de fibra ótica, simples rompimento na rede longa distancia no segmento anel da cidade brasilia no provedor C, Rompimento nos trecho entre os trechos ['span11'];2.335745338543775;94.5056026470574
+Instabilidade na transmissão provocada por vandalismo de fibra ótica, triplo rompimento na rede regional no segmento agregador da cidade recife no provedor A, Rompimento nos trecho entre os trechos ['span3', 'span10', 'span2'];7.503398118610389;316.2282820714213
+Instabilidade operacional provocada por vandalismo de roteador;3.5799425996988363;322.8548549679368
+Interrupção operacional provocada por vandalismo de energia, que atingiu o agregador e afetou 149 sites de acesso da cidade e região;1.155493967248008;125.90998042276156
+Instabilidade na transmissão provocada por interrupção de roteador;4.824132318247863;168.96533148769439
+Interrupção na infraestrutura provocada por vandalismo de roteador;0.3905241010545968;141.66566946757698
+Falha operacional causada por queda de energia, que atingiu o repetidor e afetou 128 sites de acesso da cidade e região;2.9850727522499727;166.55660597283662
+Instabilidade na transmissão devido a suspensão de fibra ótica, simples rompimento na rede regional no segmento repetidor da cidade vitoria no provedor C, Rompimento nos trecho entre os trechos ['span10'];2.6116217627837646;105.9596590596169
+Interrupção na infraestrutura ocasionada por suspensão de fibra ótica, duplo rompimento na rede metropolitana no segmento repetidor da cidade rio de janeeiro no provedor B, Rompimento nos trecho entre os trechos ['span8', 'span3'];7.448718084187321;192.87028654282346
+Falha operacional devido a paralisação de fibra ótica, duplo rompimento na rede regional no segmento repetidor da cidade macapa no provedor B, Rompimento nos trecho entre os trechos ['span2', 'span5'];0.49871278339600933;208.44665645149257
+Interrupção na infraestrutura ocasionada por queda de fibra ótica, duplo rompimento na rede metropolitana no segmento agregador da cidade porto velho no provedor C, Rompimento nos trecho entre os trechos ['span8', 'span2'];3.772475900092909;186.8760053174705
+Instabilidade na transmissão ocasionada por vandalismo de fibra ótica, triplo rompimento na rede metropolitana no segmento repetidor da cidade manaus no provedor B, Rompimento nos trecho entre os trechos ['span9', 'span4', 'span5'];2.3020015526754847;321.67019757653605
+Instabilidade operacional ocasionada por interrupção de climatização, que atingiu o anel e afetou 112 sites de acesso da cidade e região;1.507532407216766;254.7861804866752
+Falha operacional provocada por interrupção de fibra ótica, triplo rompimento na rede longa distancia no segmento hub da cidade vitoria no provedor C, Rompimento nos trecho entre os trechos ['span12', 'span6', 'span3'];2.1241557595475546;312.52813948454707
+Interrupção na infraestrutura devido a vandalismo de fibra ótica, simples rompimento na rede metropolitana no segmento hub da cidade porto alegre no provedor E, Rompimento nos trecho entre os trechos ['span3'];4.358845713039914;100.2204915394661
+Instabilidade operacional ocasionada por vandalismo de fibra ótica, simples rompimento na rede regional no segmento anel da cidade palmas no provedor B, Rompimento nos trecho entre os trechos ['span5'];4.954975741383351;114.35048817807576
+Interrupção na infraestrutura causada por suspensão de fibra ótica, simples rompimento na rede metropolitana no segmento hub da cidade vitoria no provedor C, Rompimento nos trecho entre os trechos ['span2'];4.608450641470892;106.85700318519585
+Falha na infraestrutura causada por paralisação de climatização, que atingiu o abordagem e afetou 119 sites de acesso da cidade e região;1.2164657828334624;250.52942697345443
+Instabilidade na transmissão provocada por paralisação de equipamento;1.8509139433720327;246.84349332265558
+Problema operacional provocada por suspensão de fibra ótica, triplo rompimento na rede regional no segmento abordagem da cidade recife no provedor B, Rompimento nos trecho entre os trechos ['span6', 'span9', 'span1'];2.8645241744949494;318.1119186253283
+Problema na transmissão causada por vandalismo de fibra ótica, simples rompimento na rede metropolitana no segmento repetidor da cidade rio de janeeiro no provedor C, Rompimento nos trecho entre os trechos ['span9'];2.8496284554119393;134.80159698032247
+Problema na transmissão causada por interrupção de fibra ótica, triplo rompimento na rede longa distancia no segmento repetidor da cidade salvador no provedor C, Rompimento nos trecho entre os trechos ['span1', 'span8', 'span10'];3.709989069079519;296.8707295967918
+Problema operacional provocada por suspensão de roteador;0.058121343142909176;299.219463172177
+Interrupção operacional causada por vandalismo de fibra ótica, triplo rompimento na rede longa distancia no segmento agregador da cidade cuiaba no provedor A, Rompimento nos trecho entre os trechos ['span9', 'span6', 'span2'];3.2241922295494128;316.2905944198097
+Instabilidade na infraestrutura ocasionada por vandalismo de fibra ótica, simples rompimento na rede longa distancia no segmento anel da cidade maceio no provedor C, Rompimento nos trecho entre os trechos ['span12'];1.5503138339909035;119.19495453129886
+Problema na infraestrutura ocasionada por queda de fibra ótica, simples rompimento na rede longa distancia no segmento repetidor da cidade teresina no provedor D, Rompimento nos trecho entre os trechos ['span6'];2.355283086797272;95.48249385095693
+Falha na infraestrutura ocasionada por paralisação de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade maceio no provedor C, Rompimento nos trecho entre os trechos ['span3', 'span5', 'span6'];3.879933539599631;319.70067743292594
+Instabilidade na transmissão causada por interrupção de fibra ótica, triplo rompimento na rede regional no segmento abordagem da cidade porto velho no provedor A, Rompimento nos trecho entre os trechos ['span9', 'span9', 'span3'];2.3816770618166783;315.5922647634934
+Interrupção operacional devido a vandalismo de climatização, que atingiu o abordagem e afetou 178 sites de acesso da cidade e região;1.6150566244439353;265.0100395168818
+Instabilidade na transmissão provocada por queda de fibra ótica, duplo rompimento na rede regional no segmento abordagem da cidade curitiba no provedor B, Rompimento nos trecho entre os trechos ['span11', 'span4'];1.3310624250691987;202.22429912267467
+Interrupção na transmissão provocada por interrupção de equipamento;0.44622244774215747;194.30896177168864
+Instabilidade na infraestrutura provocada por queda de energia, que atingiu o agregador e afetou 151 sites de acesso da cidade e região;0.8871412987944101;132.19087468156994
+Falha operacional devido a vandalismo de climatização, que atingiu o hub e afetou 117 sites de acesso da cidade e região;4.987765829019653;273.6361304155561
+Falha na transmissão provocada por queda de energia, que atingiu o hub e afetou 171 sites de acesso da cidade e região;2.5573167481349484;142.85897240178465
+Interrupção operacional devido a queda de fibra ótica, simples rompimento na rede longa distancia no segmento abordagem da cidade teresina no provedor C, Rompimento nos trecho entre os trechos ['span11'];4.7873879489774165;101.32661408304838
+Interrupção na transmissão ocasionada por vandalismo de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade rio de janeeiro no provedor B, Rompimento nos trecho entre os trechos ['span5', 'span3', 'span3'];2.850757178064505;305.9471217598536
+Problema na infraestrutura causada por paralisação de fibra ótica, triplo rompimento na rede regional no segmento hub da cidade brasilia no provedor A, Rompimento nos trecho entre os trechos ['span11', 'span12', 'span10'];4.714762562179067;319.32391811127326
+Falha na transmissão causada por suspensão de equipamento;0.18055429836593573;306.54785484375606
+Falha na infraestrutura ocasionada por interrupção de fibra ótica, simples rompimento na rede longa distancia no segmento repetidor da cidade belem no provedor E, Rompimento nos trecho entre os trechos ['span3'];2.679059148291018;98.897162692859
+Falha operacional ocasionada por interrupção de roteador;1.561285630320129;81.90928464783255
+Instabilidade na transmissão ocasionada por vandalismo de fibra ótica, triplo rompimento na rede regional no segmento repetidor da cidade brasilia no provedor C, Rompimento nos trecho entre os trechos ['span1', 'span7', 'span3'];4.628313769897213;331.8042738148201
+Falha na transmissão ocasionada por paralisação de energia, que atingiu o anel e afetou 84 sites de acesso da cidade e região;0.05547067216629786;134.13223370323973
+Falha na transmissão provocada por interrupção de roteador;0.06260376467073925;144.94911059966313
+Problema na transmissão devido a queda de equipamento;1.5265216479202668;169.578329097675
+Problema operacional causada por vandalismo de fibra ótica, triplo rompimento na rede longa distancia no segmento repetidor da cidade recife no provedor C, Rompimento nos trecho entre os trechos ['span2', 'span6', 'span7'];3.050237617313626;327.71723985703017
+Instabilidade na infraestrutura ocasionada por paralisação de energia, que atingiu o anel e afetou 192 sites de acesso da cidade e região;1.2982189386556164;155.36693671096188
+Falha na infraestrutura causada por interrupção de fibra ótica, duplo rompimento na rede metropolitana no segmento hub da cidade macapa no provedor B, Rompimento nos trecho entre os trechos ['span4', 'span5'];4.269235458700251;216.84192705508892
+Falha na infraestrutura ocasionada por vandalismo de fibra ótica, duplo rompimento na rede regional no segmento anel da cidade palmas no provedor C, Rompimento nos trecho entre os trechos ['span6', 'span10'];2.363451495409784;190.94870222638852
+Interrupção operacional provocada por vandalismo de fibra ótica, triplo rompimento na rede metropolitana no segmento anel da cidade salvador no provedor E, Rompimento nos trecho entre os trechos ['span4', 'span3', 'span6'];2.2149706583219233;288.5850912148243
+Interrupção operacional ocasionada por vandalismo de energia, que atingiu o agregador e afetou 155 sites de acesso da cidade e região;3.818424576438975;133.45692156030992
+Instabilidade na infraestrutura causada por vandalismo de fibra ótica, triplo rompimento na rede longa distancia no segmento abordagem da cidade boa vista no provedor E, Rompimento nos trecho entre os trechos ['span9', 'span6', 'span6'];6.426213284789947;334.5725999160303
+Problema operacional provocada por vandalismo de fibra ótica, duplo rompimento na rede metropolitana no segmento abordagem da cidade boa vista no provedor E, Rompimento nos trecho entre os trechos ['span1', 'span11'];4.386220287112504;207.18395067325304
+Instabilidade na infraestrutura provocada por interrupção de fibra ótica, duplo rompimento na rede regional no segmento anel da cidade joao pessoa no provedor A, Rompimento nos trecho entre os trechos ['span6', 'span1'];3.60036655199237;229.94298692405658
+Problema na infraestrutura ocasionada por paralisação de fibra ótica, duplo rompimento na rede longa distancia no segmento abordagem da cidade maceio no provedor A, Rompimento nos trecho entre os trechos ['span12', 'span10'];3.419251208437922;198.76216050619965
+Falha na infraestrutura devido a interrupção de fibra ótica, triplo rompimento na rede regional no segmento anel da cidade porto velho no provedor E, Rompimento nos trecho entre os trechos ['span10', 'span11', 'span10'];4.113584379985847;322.5944810909216
+Problema operacional causada por queda de roteador;0.4174816341207722;318.29599232220295
+Interrupção na transmissão provocada por interrupção de climatização, que atingiu o repetidor e afetou 123 sites de acesso da cidade e região;0.21290435996049784;246.91340123218913
+Instabilidade operacional provocada por paralisação de fibra ótica, duplo rompimento na rede regional no segmento agregador da cidade curitiba no provedor B, Rompimento nos trecho entre os trechos ['span12', 'span6'];4.624147249935971;219.2429366361902
+Interrupção operacional devido a vandalismo de fibra ótica, simples rompimento na rede longa distancia no segmento agregador da cidade sao paulo no provedor C, Rompimento nos trecho entre os trechos ['span1'];2.684812676170987;94.08573367082629
+Instabilidade na transmissão causada por interrupção de fibra ótica, duplo rompimento na rede metropolitana no segmento anel da cidade porto velho no provedor A, Rompimento nos trecho entre os trechos ['span9', 'span10'];3.0305571403698255;238.42121137191037
+Problema na transmissão provocada por interrupção de equipamento;0.6990114575250783;227.3431305926718
+Instabilidade operacional ocasionada por suspensão de equipamento;0.2884085165207967;211.1400088765768
+Problema na transmissão causada por queda de energia, que atingiu o anel e afetou 54 sites de acesso da cidade e região;0.37976562776863065;174.91363477818646
+Problema operacional ocasionada por queda de fibra ótica, triplo rompimento na rede regional no segmento repetidor da cidade recife no provedor E, Rompimento nos trecho entre os trechos ['span2', 'span3', 'span4'];2.916377865200057;307.4138379007045
+Falha na transmissão ocasionada por paralisação de climatização, que atingiu o agregador e afetou 178 sites de acesso da cidade e região;4.680650698372235;202.4183885273185
+Falha operacional devido a queda de fibra ótica, duplo rompimento na rede metropolitana no segmento anel da cidade curitiba no provedor E, Rompimento nos trecho entre os trechos ['span9', 'span10'];4.4610481485043385;209.11373532943796
+Interrupção operacional devido a suspensão de fibra ótica, simples rompimento na rede regional no segmento abordagem da cidade porto alegre no provedor E, Rompimento nos trecho entre os trechos ['span11'];0.232107255653748;105.50013541081817
+Interrupção operacional devido a vandalismo de fibra ótica, simples rompimento na rede metropolitana no segmento anel da cidade palmas no provedor E, Rompimento nos trecho entre os trechos ['span7'];4.365234642070449;108.64480285076587
+Falha na transmissão causada por interrupção de fibra ótica, triplo rompimento na rede metropolitana no segmento repetidor da cidade palmas no provedor E, Rompimento nos trecho entre os trechos ['span9', 'span7', 'span10'];8.358430059293026;304.59597762683484
+Problema na transmissão ocasionada por paralisação de energia, que atingiu o anel e afetou 74 sites de acesso da cidade e região;2.6177312139567976;175.34319515417496
+Problema na transmissão ocasionada por suspensão de energia, que atingiu o repetidor e afetou 103 sites de acesso da cidade e região;1.687714209585784;139.2804979647915
+Falha operacional devido a vandalismo de climatização, que atingiu o abordagem e afetou 77 sites de acesso da cidade e região;1.796275418519604;219.55201306479213
+Instabilidade operacional causada por interrupção de fibra ótica, triplo rompimento na rede longa distancia no segmento agregador da cidade boa vista no provedor C, Rompimento nos trecho entre os trechos ['span6', 'span4', 'span6'];4.543407198183362;316.0984459125074
+Instabilidade na infraestrutura ocasionada por vandalismo de roteador;1.2735937908612658;299.9428568929521
+Interrupção na infraestrutura ocasionada por vandalismo de fibra ótica, simples rompimento na rede metropolitana no segmento agregador da cidade cuiaba no provedor C, Rompimento nos trecho entre os trechos ['span8'];4.95432035625508;99.75980490836851
+Problema na transmissão provocada por vandalismo de energia, que atingiu o repetidor e afetou 53 sites de acesso da cidade e região;1.8968402543218468;145.4949840278352
+Interrupção na infraestrutura ocasionada por interrupção de climatização, que atingiu o repetidor e afetou 60 sites de acesso da cidade e região;1.6843237944368834;250.5154563768592
+Interrupção na infraestrutura devido a paralisação de energia, que atingiu o repetidor e afetou 153 sites de acesso da cidade e região;0.5921865595394683;141.23853802123594
+Falha operacional ocasionada por vandalismo de fibra ótica, duplo rompimento na rede regional no segmento anel da cidade curitiba no provedor E, Rompimento nos trecho entre os trechos ['span2', 'span2'];4.283534962418806;217.28382289230845
+Falha na transmissão ocasionada por vandalismo de climatização, que atingiu o hub e afetou 117 sites de acesso da cidade e região;1.4415787830546742;230.1243926674448
+Interrupção operacional ocasionada por paralisação de roteador;1.0973282539921607;240.94222513358432
+Falha na transmissão provocada por suspensão de fibra ótica, simples rompimento na rede longa distancia no segmento anel da cidade rio de janeeiro no provedor B, Rompimento nos trecho entre os trechos ['span5'];9.071813466601089;97.20778835610331
+Interrupção operacional devido a paralisação de fibra ótica, triplo rompimento na rede regional no segmento abordagem da cidade porto alegre no provedor E, Rompimento nos trecho entre os trechos ['span2', 'span5', 'span1'];5.47236567305322;304.82674496279793
+Falha na infraestrutura ocasionada por suspensão de roteador;4.980705524408359;315.4863648998034
+Instabilidade operacional ocasionada por paralisação de energia, que atingiu o repetidor e afetou 92 sites de acesso da cidade e região;4.546458240241865;145.74110003866616
+Instabilidade na infraestrutura causada por paralisação de fibra ótica, triplo rompimento na rede regional no segmento repetidor da cidade belem no provedor C, Rompimento nos trecho entre os trechos ['span5', 'span2', 'span9'];4.481520696843764;313.0492482865134
+Interrupção operacional ocasionada por paralisação de fibra ótica, triplo rompimento na rede metropolitana no segmento agregador da cidade joao pessoa no provedor E, Rompimento nos trecho entre os trechos ['span7', 'span4', 'span10'];2.6943796059753384;327.4370143626306
+Problema na transmissão devido a suspensão de fibra ótica, duplo rompimento na rede longa distancia no segmento repetidor da cidade porto velho no provedor B, Rompimento nos trecho entre os trechos ['span4', 'span2'];4.9423261559224265;218.71390598665027
+Falha na transmissão devido a vandalismo de fibra ótica, simples rompimento na rede longa distancia no segmento agregador da cidade curitiba no provedor C, Rompimento nos trecho entre os trechos ['span7'];2.8468272452638788;114.0623870070935
+Interrupção na infraestrutura devido a interrupção de climatização, que atingiu o repetidor e afetou 109 sites de acesso da cidade e região;1.880720766290937;232.92179610859537
+Problema na transmissão causada por suspensão de fibra ótica, duplo rompimento na rede metropolitana no segmento abordagem da cidade manaus no provedor C, Rompimento nos trecho entre os trechos ['span2', 'span7'];4.027896515602949;232.5777063760442
+Interrupção na transmissão devido a paralisação de energia, que atingiu o abordagem e afetou 128 sites de acesso da cidade e região;3.5764562911012496;122.37046521283739
+Instabilidade na transmissão ocasionada por paralisação de energia, que atingiu o agregador e afetou 188 sites de acesso da cidade e região;1.5916367373294804;158.6580491182141
+Instabilidade na infraestrutura ocasionada por paralisação de fibra ótica, duplo rompimento na rede metropolitana no segmento repetidor da cidade sao paulo no provedor C, Rompimento nos trecho entre os trechos ['span11', 'span9'];4.795219506251279;192.7977405847558
+Instabilidade na transmissão provocada por vandalismo de fibra ótica, triplo rompimento na rede longa distancia no segmento hub da cidade recife no provedor D, Rompimento nos trecho entre os trechos ['span8', 'span8', 'span7'];4.837587629438878;318.11514949286084
+Instabilidade operacional devido a queda de fibra ótica, simples rompimento na rede regional no segmento repetidor da cidade cuiaba no provedor D, Rompimento nos trecho entre os trechos ['span3'];6.141795605714445;96.957208307478
+Instabilidade operacional provocada por queda de fibra ótica, duplo rompimento na rede metropolitana no segmento hub da cidade belo horizonte no provedor A, Rompimento nos trecho entre os trechos ['span8', 'span9'];2.0519349139825067;199.51260959168184
+Falha operacional provocada por queda de fibra ótica, simples rompimento na rede metropolitana no segmento agregador da cidade curitiba no provedor B, Rompimento nos trecho entre os trechos ['span3'];6.155697941916331;100.30344673904631
+Instabilidade operacional provocada por vandalismo de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade boa vista no provedor E, Rompimento nos trecho entre os trechos ['span3', 'span8', 'span10'];4.13065991908519;310.3463142512282
+Problema na infraestrutura ocasionada por vandalismo de energia, que atingiu o hub e afetou 59 sites de acesso da cidade e região;0.4324710271000155;121.81653436705017
+Instabilidade na infraestrutura ocasionada por queda de roteador;0.9267667362420725;155.41066417456182
+Interrupção na transmissão provocada por queda de energia, que atingiu o abordagem e afetou 64 sites de acesso da cidade e região;0.9542480780953545;130.00593109402217
+Interrupção na transmissão causada por paralisação de fibra ótica, triplo rompimento na rede longa distancia no segmento agregador da cidade teresina no provedor C, Rompimento nos trecho entre os trechos ['span10', 'span8', 'span8'];4.512523672045044;316.71601968812
+Problema na transmissão devido a vandalismo de energia, que atingiu o hub e afetou 100 sites de acesso da cidade e região;0.7156357754736883;164.36385970923743
+Interrupção operacional causada por interrupção de fibra ótica, duplo rompimento na rede regional no segmento anel da cidade boa vista no provedor E, Rompimento nos trecho entre os trechos ['span10', 'span5'];2.86514117935042;182.31350371570574
+Problema na transmissão ocasionada por interrupção de fibra ótica, simples rompimento na rede longa distancia no segmento anel da cidade maceio no provedor C, Rompimento nos trecho entre os trechos ['span10'];4.2580257715462775;104.37711196389608
+Instabilidade na transmissão devido a queda de equipamento;0.2671735609925563;117.01676499068519
+Problema na transmissão causada por queda de climatização, que atingiu o abordagem e afetou 40 sites de acesso da cidade e região;0.5170350544526127;274.98000056521425
+Falha na transmissão ocasionada por paralisação de fibra ótica, duplo rompimento na rede regional no segmento repetidor da cidade maceio no provedor B, Rompimento nos trecho entre os trechos ['span9', 'span9'];2.6853492869828637;217.8001344705586
+Problema na infraestrutura ocasionada por queda de fibra ótica, triplo rompimento na rede metropolitana no segmento hub da cidade maceio no provedor A, Rompimento nos trecho entre os trechos ['span4', 'span12', 'span11'];4.236961077313094;322.22029893259935
+Instabilidade na transmissão causada por vandalismo de roteador;2.0023211236639242;315.42468123966034
+Falha operacional causada por suspensão de climatização, que atingiu o anel e afetou 130 sites de acesso da cidade e região;2.619436785733539;203.82112017114508
+Problema na infraestrutura provocada por queda de climatização, que atingiu o agregador e afetou 93 sites de acesso da cidade e região;4.0588340836150545;253.62720126714248
+Interrupção na transmissão ocasionada por vandalismo de climatização, que atingiu o hub e afetou 172 sites de acesso da cidade e região;3.5742004085137498;227.6791474636262
+Instabilidade operacional causada por interrupção de fibra ótica, simples rompimento na rede regional no segmento hub da cidade natal no provedor C, Rompimento nos trecho entre os trechos ['span10'];4.4541376935864845;99.20315832772312
+Instabilidade na transmissão causada por vandalismo de climatização, que atingiu o abordagem e afetou 67 sites de acesso da cidade e região;3.2961080345524993;256.7625154692872
+Falha na infraestrutura causada por suspensão de roteador;0.5534577594905377;246.6550175080783
+Interrupção na transmissão provocada por suspensão de fibra ótica, simples rompimento na rede regional no segmento abordagem da cidade fortaleza no provedor C, Rompimento nos trecho entre os trechos ['span4'];0.3792397559012233;110.24795281495403
+Falha na transmissão ocasionada por suspensão de climatização, que atingiu o abordagem e afetou 117 sites de acesso da cidade e região;1.3768012550681916;243.00608836628888
+Instabilidade na infraestrutura ocasionada por interrupção de fibra ótica, duplo rompimento na rede regional no segmento agregador da cidade fortaleza no provedor B, Rompimento nos trecho entre os trechos ['span2', 'span4'];3.234011337474472;197.90317575249674
+Interrupção na transmissão causada por suspensão de roteador;5.617678393225185;200.80952938893904
+Instabilidade na transmissão provocada por interrupção de fibra ótica, duplo rompimento na rede metropolitana no segmento agregador da cidade teresina no provedor C, Rompimento nos trecho entre os trechos ['span7', 'span11'];8.655428015131974;205.72844167706438
